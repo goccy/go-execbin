@@ -4,6 +4,10 @@
 
 Analyze the binary outputted by `go build` to get type information etc.
 
+# Status
+
+UNDER DEVELOPMENT
+
 # Synopsis
 
 ```go
